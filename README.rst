@@ -9,3 +9,8 @@ Buildout::
 
     $ python2.7 bootstrap.py
     $ bin/buildout
+
+Use supervisord::
+
+    $ bin/notebookd
+    $ bin/notebookctl status
