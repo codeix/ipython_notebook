@@ -3,7 +3,7 @@ Installation
 
 Debian packages::
 
-    # aptitude install build-essentials libzmq-dev libfreetype6-dev r-base-core python-dev python-numpy
+    # apt-get install rpy2 libyaml-dev libsqlite3-dev build-essentials libzmq-dev libfreetype6-dev r-base-core python-dev python-numpy
 
 Buildout::
 
@@ -14,3 +14,10 @@ Use supervisord::
 
     $ bin/notebookd
     $ bin/notebookctl status
+
+Info::
+
+This setup a notebook server which all requireds package needed at the technical college FFHS.
+
+
+
