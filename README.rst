@@ -3,7 +3,7 @@ Installation
 
 Debian packages::
 
-    # apt-get install rpy2 libyaml-dev libsqlite3-dev build-essentials libzmq-dev libfreetype6-dev r-base-core python-dev python-numpy
+    # apt-get install rpy2 libyaml-dev libsqlite3-dev build-essentials libzmq-dev libfreetype6-dev r-base-core python-dev python-numpy gfortran libopenblas-dev liblapack-dev
 
 Buildout::
 
