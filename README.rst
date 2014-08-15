@@ -17,7 +17,7 @@ Use supervisord::
 
 Info::
 
-This setup a notebook server which all requireds package needed at the technical college FFHS.
+This install a notebook server which all requireds package needed at the technical college FFHS.
 
 
 
